@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SudarshanGouda
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently looking for an opportunity to work on AI, ML and Data Science
+- 🌱 I’m Data Scientist
 - 📫 How to reach me sudarshanggouda@gmail.com
 
 <!---
