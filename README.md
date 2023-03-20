@@ -1,5 +1,4 @@
-![](https://i.pinimg.com/originals/43/f4/39/43f43936a3cc44ac50a6262523bc8b4c.png) 
-- 
+
 - ## 👋 Hi, I’m @SudarshanGouda
 
 #### LinkedIn Profile- https://www.linkedin.com/in/sudarshan-gouda-0577b8210/
