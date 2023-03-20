@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/236x/06/ee/c5/06eec5cf477e745d92617bf473308323--gif-art-animated-gifs.jpg) 
+![](https://i.pinimg.com/originals/43/f4/39/43f43936a3cc44ac50a6262523bc8b4c.png) 
 - 
 - ## 👋 Hi, I’m @SudarshanGouda
 
@@ -7,7 +7,7 @@
 
 ### I’m Working as Data Scientist
 
-- 📫 How to reach me sudarshanggouda@gmail.com
+- 📫 How to reach me sudarshanggouda@outlook.com
 
 <!---
 SudarshanGouda/SudarshanGouda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
