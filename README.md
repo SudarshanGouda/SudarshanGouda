@@ -4,7 +4,7 @@
 #### LinkedIn Profile- https://www.linkedin.com/in/sudarshan-gouda-0577b8210/
 
 
-### I’m Working as Data Scientist
+### Data Scientist
 
 - 📫 How to reach me sudarshanggouda@outlook.com
 
